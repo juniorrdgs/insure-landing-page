@@ -29,5 +29,5 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ## Author
 
-- Github Pages - [Junior Rodrigues](https://www.your-site.com)
+- Github Pages - [Junior Rodrigues](https://github.com/juniorrdgs)
 - Frontend Mentor - [@juniorrdgs](https://www.frontendmentor.io/profile/juniorrdgs)
